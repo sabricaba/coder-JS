@@ -1,0 +1,12 @@
+let a = prompt("Ingrese su nombre")
+alert("Hola" + " "+ a + " " + "¿Quieres jugar un juego?")
+alert("Piensa un numero del 1 al 100, que voy a adivinarlo")
+alert("Multiplica el numero por 5")
+alert("A lo que quedo, sumale 12")
+alert("Al nuevo numero, multiplicalo por 10")
+alert("Ahora sumale 5")
+alert("Y por ùltimo multiplicalo por 2")
+let b = parseInt (prompt("¿Que numero te quedo? ¡Sin hacer trampas!"))
+let c = (b-250)/100
+console.log (c)
+alert ("¿Tu numero es" + " " + c + "?")
