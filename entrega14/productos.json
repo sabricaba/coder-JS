@@ -1,0 +1,8 @@
+[
+    {"id":1, "producto":"Alimento para gato", "precio":1550, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0g8eGxjj7CvakIVDcT9yAA8GPnP9NKN2KQ&usqp=CAU"},
+    {"id":2, "producto":"Alimento para perro", "precio":1675, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqHVfUlFiBVU4kGe_MQhcvHy9wn8fnNXhbKg&usqp=CAU"},
+    {"id":3, "producto":"Baños para perro", "precio":1075, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAPMcd1wvI3UtpHkGfbBbuIuMhkq998sGSQ&usqp=CAU"},
+    {"id":4, "producto":"Servicio veterinaria", "precio":1350, "image": "http://1.bp.blogspot.com/-pL78OThyv_c/Ve4OnTZWF4I/AAAAAAAAAAM/Gx73N1UKfA4/s1600/perrogato.jpg"},
+    {"id":5, "producto":"Premios", "precio":550, "image":"https://www.mundoperro.net/wp-content/uploads/Golosinas-y-premios-para-perros.jpg"},
+    {"id":6, "producto":"Juguetes", "precio":1950, "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF2GdIvUO9jcG3LP39XMWFWNWIfWpIMZlmA&usqp=CAU"}
+]
